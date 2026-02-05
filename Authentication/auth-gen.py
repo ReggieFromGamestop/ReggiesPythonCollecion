@@ -1,4 +1,5 @@
-var = int(input())
+import datetime
 
-if var == 2:
-    print 'Hello Too'
+x = datetime.datetime.now()
+
+print(F"A:863,B:368,C:
